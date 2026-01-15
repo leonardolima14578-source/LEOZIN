@@ -1,0 +1,5 @@
+{
+  "name": "Planilha LEOZIN",
+  "description": "Planilha de gerenciamento financeiro de 30 dias com cálculo automático de juros compostos, metas de 10% a 50%, e controle de Wins/Losses com análise Gemini AI.",
+  "requestFramePermissions": []
+}
